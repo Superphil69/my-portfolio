@@ -1,5 +1,5 @@
 ---
-title: City In Website Concept
+title: Cuecliché
 ---
 
-![City In](assets/img/work/proj-2/CityIn-AntonSkvortsov.jpg)
+![Cuecliche](assets/img/work/proj-2/cuecliche-site.jpg)

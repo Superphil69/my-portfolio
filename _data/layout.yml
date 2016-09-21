@@ -4,13 +4,15 @@ animation: "bounceOut"
 
 # Images
 
-logo: "logo.svg"
-hero: "hero-bg.jpg"
-avatar: "travitar.jpg"
+logo: "Finished-logo.png"
+hero: "logo.background.jpg"
+avatar: "face.jpg"
+beach: "logo.background.jpg"
+
 
 # Colors
 
-accent: "#c99065"
+accent: "#0262B7"
 
 textColor: "#666"
 headlineColor: "#333"
